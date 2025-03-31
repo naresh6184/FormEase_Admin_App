@@ -117,7 +117,7 @@ python main.py
 
 | Fetch Application |
 |-------------------|
-| ![Fetch Application](FormEase_Admin_App_Images\fetch_application.png) |
+| ![Fetch Application](FormEase_Admin_App_Images/database.png) |
 
 | Access Database |
 |------------------|
