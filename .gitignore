@@ -1,0 +1,18 @@
+
+# Ignore environment variables
+.env
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore IDE and OS-generated files
+.idea/
+.vscode/
+.DS_Store
+
+# Ignore build artifacts
+/build/
+
+# Ignore compiled executable
+dist/FormEase Admin.exe
