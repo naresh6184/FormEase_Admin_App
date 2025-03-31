@@ -150,7 +150,10 @@ If you want to contribute:
     ```bash
     git checkout -b feature-branch
     ```  
-3. Make your changes and commit them.  
+3. Make your changes and commit them:
+   ```sh
+   git commit -m "Add new feature"
+    ```
 4. Push to the branch:  
     ```bash
     git push origin feature-branch
